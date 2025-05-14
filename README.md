@@ -23,12 +23,14 @@ My first repository
   
 ---
 ## Remarkable Lines
-* " When you get to the point where you have nothing , you're left with just the memories that won't ever replaced, they won't ever get arased. "
-* "It's easier to give up when it hurts, to leave when it gets tiring but what you really need is patience. If you only held on, you can learn those things. You would still grow, together."
-* "Ride the tide until the sun rises again because it always does."
+> * " When you get to the point where you have nothing , you're left with just the memories that won't ever replaced, they won't ever get arased. "
+
+> * "It's easier to give up when it hurts, to leave when it gets tiring but what you really need is patience. If you only held on, you can learn those things. You would still grow, together."
+   
+> * "Ride the tide until the sun rises again because it always does."
 
 ---
 # Image 
-https://ph.pinterest.com/pin/678214025118223885/
+![Movie Poster](https://ph.pinterest.com/pin/678214025118223885/)
 
 ---
