@@ -31,6 +31,7 @@ My first repository
 
 ---
 # Image 
-![Movie Poster](https://ph.pinterest.com/pin/678214025118223885/)
+
+![Movie Poster]([https://ph.pinterest.com/pin/678214025118223885/](https://upload.wikimedia.org/wikipedia/en/1/13/The_Hows_of_Us.jpg)
 
 ---
